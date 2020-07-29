@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46ae7ce30fc84390d418ca0349848164",
+    "revision": "eb7346aefcea1eb56cbadfff39ff02be",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "644b76866cdb322f54ad",
+    "revision": "42d744a3002fd425af80",
     "url": "/portfolio/static/css/main.f4f4c5fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.3896633e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "644b76866cdb322f54ad",
-    "url": "/portfolio/static/js/main.4c2a35dd.chunk.js"
+    "revision": "42d744a3002fd425af80",
+    "url": "/portfolio/static/js/main.3613d168.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/OFFICE.0de69f83.jpg"
   },
   {
-    "revision": "ac35dec77d36f67726fbbe95f7638d96",
-    "url": "/portfolio/static/media/Orhil.ac35dec7.PNG"
+    "revision": "d9bdbdbf215dd894c60b45a67e418c64",
+    "url": "/portfolio/static/media/Orhil.d9bdbdbf.PNG"
   },
   {
     "revision": "cd7bb6bec60f6799aa174b4e07b92ea4",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/javascript.0e4fdce8.png"
   },
   {
-    "revision": "6faa55994f0cdc3d4485b74f9b161f35",
-    "url": "/portfolio/static/media/momtalk.6faa5599.PNG"
+    "revision": "ac83e6b7984b6c244e45ad9c7c02c29a",
+    "url": "/portfolio/static/media/momtalk.ac83e6b7.PNG"
   },
   {
     "revision": "0498f89375e8bb7e33d87210ec34e0bd",

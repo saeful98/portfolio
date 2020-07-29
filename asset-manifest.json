@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f4f4c5fd.chunk.css",
-    "main.js": "/portfolio/static/js/main.4c2a35dd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4c2a35dd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3613d168.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3613d168.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.829c9cb5.chunk.css": "/portfolio/static/css/2.829c9cb5.chunk.css",
     "static/js/2.3896633e.chunk.js": "/portfolio/static/js/2.3896633e.chunk.js",
     "static/js/2.3896633e.chunk.js.map": "/portfolio/static/js/2.3896633e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.7676463f0716d4256a4117f003aba998.js": "/portfolio/precache-manifest.7676463f0716d4256a4117f003aba998.js",
+    "precache-manifest.2b0e016cd00bd46b3cb7b2a5dd1e4389.js": "/portfolio/precache-manifest.2b0e016cd00bd46b3cb7b2a5dd1e4389.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/portfolio/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.f4f4c5fd.chunk.css.map": "/portfolio/static/css/main.f4f4c5fd.chunk.css.map",
@@ -20,7 +20,7 @@
     "static/media/HTML.png": "/portfolio/static/media/HTML.2dab73ac.png",
     "static/media/Movie.PNG": "/portfolio/static/media/Movie.01398082.PNG",
     "static/media/OFFICE.jpg": "/portfolio/static/media/OFFICE.0de69f83.jpg",
-    "static/media/Orhil.PNG": "/portfolio/static/media/Orhil.ac35dec7.PNG",
+    "static/media/Orhil.PNG": "/portfolio/static/media/Orhil.d9bdbdbf.PNG",
     "static/media/REACT.png": "/portfolio/static/media/REACT.cd7bb6be.png",
     "static/media/S A B A R_200727.jpg": "/portfolio/static/media/S A B A R_200727.a276cd81.jpg",
     "static/media/Saeful Rohman.jpg": "/portfolio/static/media/Saeful Rohman.eab1a9d8.jpg",
@@ -30,7 +30,7 @@
     "static/media/git.svg": "/portfolio/static/media/git.db2a23f6.svg",
     "static/media/ig.png": "/portfolio/static/media/ig.8c955460.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.0e4fdce8.png",
-    "static/media/momtalk.PNG": "/portfolio/static/media/momtalk.6faa5599.PNG",
+    "static/media/momtalk.PNG": "/portfolio/static/media/momtalk.ac83e6b7.PNG",
     "static/media/php7.jpg": "/portfolio/static/media/php7.0498f893.jpg",
     "static/media/rent_car.PNG": "/portfolio/static/media/rent_car.b48c5983.PNG",
     "static/media/wa.png": "/portfolio/static/media/wa.e0b1a4a5.png"
@@ -40,6 +40,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.3896633e.chunk.js",
     "static/css/main.f4f4c5fd.chunk.css",
-    "static/js/main.4c2a35dd.chunk.js"
+    "static/js/main.3613d168.chunk.js"
   ]
 }
